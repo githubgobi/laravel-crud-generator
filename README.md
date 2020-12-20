@@ -60,6 +60,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - [Hyper Host](https://hyper.host)
 - [Appoly](https://www.appoly.co.uk)
 - [OP.GG](https://op.gg)
+- [gobi.crud] (https://github.com/digitaldreams/laracrud)
 
 ## Contributing
 
@@ -76,5 +77,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-https://awesomeopensource.com/project/digitaldreams/laracrud
+composer install
+npm install
